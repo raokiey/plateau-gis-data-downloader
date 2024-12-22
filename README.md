@@ -2,6 +2,8 @@
 [Project PLATEAU](https://www.mlit.go.jp/plateau/)にて公開されているCityGML形式のデータを、条件を指定して抽出、GISデータとしてダウンロードが行えるWebアプリケーションを目指しています。  
 現在は、一部の建築物データのみ対応しています。  
 
+https://github.com/user-attachments/assets/cbd95d39-5cf2-44ae-9a07-08b411f11620
+
 ---
 
 ## 機能
